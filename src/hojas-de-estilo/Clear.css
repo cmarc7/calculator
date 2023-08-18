@@ -1,0 +1,16 @@
+.button-clear {
+    width: 175px;
+    height: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 40px;
+    background-color: #fb0;
+    color: #000;
+    border-radius: 25px;
+    border: 2px solid #ddd;
+    margin: 5px;
+    cursor: pointer;
+    user-select: none;
+}
